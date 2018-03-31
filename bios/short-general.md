@@ -1,0 +1,1 @@
+Sarah Allen is a serial innovator with a history of developing leading-edge products, such as After Effects, Shockwave, Flash video, and OpenLaszlo. She co-founded RailsBridge, launched a startup, and has worked to fix the US government.  She now works at Google by day, continues to volunteer at Bridge Foundry and runs a not-yet-profitable startup.
