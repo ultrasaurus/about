@@ -1,4 +1,6 @@
-# Upcoming Talks & Conferences
+## Upcoming Talks & Conferences
+
+If you would like me to speak at your event, [contact me](https://www.ultrasaurus.com/emailme.php).
 
 * April 3 - 5: [Internet Identity Workshop](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxvi-26-2018a-tickets-39785360083)
 * April 18: Absorbed into the Borg: What Happens After Your Startup is Acquired, [Girl Geek X](https://elevate.girlgeek.io)
@@ -8,9 +10,7 @@
 * July 24-26, [Next](https://cloud.withgoogle.com/next18/sf/), San Francisco, CA
 
 
-If you would like me to speak at your event, [email me](https://www.ultrasaurus.com/emailme.php).
-
-# Speaking History
+## History
 
 *   Introducing Cloud Firestore ([video](https://www.youtube.com/watch?v=W3xIOQu0h1w)), Firebase DevSummit, Nov '17
 *   How to Build Robust Mobile Applications for the Distributed Cloud ([video](https://www.youtube.com/watch?v=9Fmsw5yzW5I&t=8s)), Google I/O, May '17
