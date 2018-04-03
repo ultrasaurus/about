@@ -1,4 +1,3 @@
-# About Sarah Allen
 
 Sarah Allen is a senior technical leader who has been contributing to open source software for over 15 years.  She founded Blazing Cloud, a mobile development firm, and Bridge Foundry, a diversity and inclusion nonprofit. She previously served as Presidential Innovation Fellow in the Obama Administration at the Smithsonian Institution, and was an early engineer on After Effects, Shockwave, and Flash video.  She now leads Google Cloud Platform infrastructure teams working on server-side events and security policy.
 
@@ -14,15 +13,16 @@ While my current roles may seem unrelated, they each provide the opportunity to 
 I believe that software should be fun. Software should  enable someone to do something meaningful that they couldn't do otherwise.
 
 
-# About this website
-This is my personal space for writing and experimentation. If you are curious, you can read [about the orgin of the name](https://www.ultrasaurus.com/about/ultrasaurus.html).
+## About this website
+This is my personal space for writing and experimentation. If you are curious, you can read [about the origin of the name](https://www.ultrasaurus.com/about/ultrasaurus.html).
 
-# Contact
+## Contact
 
 * follow me on twitter [@ultrasaurus](http://twitter.com/ultrasaurus)
-* or send me an email: sarah (at) ultrasaurus _dot_ com
+* [email me](https://www.ultrasaurus.com/emailme.php).
 
-# Interests
+## Interests
 
 crowdsourcing, learning, human spoken language, code, theories of play, distributed systems, experience design, social computing, video and motion graphics, 3D graphics, communication, art, science ...
 
+Find me at an upcoming conference or check out videos of past talks on my [speaking](/speaking) page
