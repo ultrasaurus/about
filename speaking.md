@@ -2,18 +2,17 @@
 
 If you would like me to speak at your event, [contact me](https://www.ultrasaurus.com/emailme.php).
 
-* April 3 - 5: [Internet Identity Workshop](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxvi-26-2018a-tickets-39785360083)
-* April 18: Absorbed into the Borg: What Happens After Your Startup is Acquired, [Girl Geek X](https://elevate.girlgeek.io)
-* May 2 - 4: [Convergence of serverless APIs and compute](https://kccnceu18.sched.com/event/DqwA/convergence-of-serverless-apis-compute-sarah-allen-google-intermediate-skill-level), Kubecon + CloudNativeCon Europe, Copenhagen, Denmark
-* May 8 - 10, [Google I/O](https://events.google.com/io/), Mountain View, CA
-* June 12 - 14, [Full stack in a stackless world](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/65920), Fluent, San Jose, CA
 * July 24-26, [Next](https://cloud.withgoogle.com/next18/sf/), San Francisco, CA
 
 
 ## History
 
-*   Introducing Cloud Firestore ([video](https://www.youtube.com/watch?v=W3xIOQu0h1w)), Firebase DevSummit, Nov '17
-*   How to Build Robust Mobile Applications for the Distributed Cloud ([video](https://www.youtube.com/watch?v=9Fmsw5yzW5I&t=8s)), Google I/O, May '17
+* [Full stack in a stackless world](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/65920), Fluent, San Jose, CA, June '18 
+* Build planetary scale apps with Firebase with Doug Stevenson ([video](https://www.youtube.com/watch?v=9pwBgGgfHP8)), Google I/O, Mountain View, CA, May '18
+* [Convergence of serverless APIs and compute](https://kccnceu18.sched.com/event/DqwA/convergence-of-serverless-apis-compute-sarah-allen-google-intermediate-skill-level), Kubecon + CloudNativeCon Europe, Copenhagen, Denmark, May '18
+* Absorbed into the Borg: What Happens After Your Startup is Acquired, [Girl Geek X](https://elevate.girlgeek.io), Apr '18
+* Introducing Cloud Firestore ([video](https://www.youtube.com/watch?v=W3xIOQu0h1w)), Firebase DevSummit, Nov '17
+* How to Build Robust Mobile Applications for the Distributed Cloud ([video](https://www.youtube.com/watch?v=9Fmsw5yzW5I&t=8s)), Google I/O, May '17
 *   Erlang/Elixir Keynote: Language Encodes Wisdom ([video](https://www.youtube.com/watch?v=_PdcGptErsY)), Mar '17
 *   Communication is a Technical Skill ([video](https://www.youtube.com/watch?v=coye0AllVuY&t=53s)), Rocky Mountain Ruby, Oct '16
 *   Technical Leadership ([video](https://www.youtube.com/watch?v=S1iYeThQO-g)), hack.summit(), Feb '16
