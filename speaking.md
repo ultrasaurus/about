@@ -9,7 +9,7 @@ If you would like me to speak at your event, [contact me](https://www.ultrasauru
 
 * [Full stack in a stackless world](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/65920), Fluent, San Jose, CA, June '18 
 * Build planetary scale apps with Firebase with Doug Stevenson ([video](https://www.youtube.com/watch?v=9pwBgGgfHP8)), Google I/O, Mountain View, CA, May '18
-* [Convergence of serverless APIs and compute](https://kccnceu18.sched.com/event/DqwA/convergence-of-serverless-apis-compute-sarah-allen-google-intermediate-skill-level), Kubecon + CloudNativeCon Europe, Copenhagen, Denmark, May '18
+* [Convergence of serverless APIs and compute](https://kccnceu18.sched.com/event/DqwA/convergence-of-serverless-apis-compute-sarah-allen-google-intermediate-skill-level), ([video](https://www.youtube.com/watch?v=c4ShcwgrKL4))Kubecon + CloudNativeCon Europe, Copenhagen, Denmark, May '18
 * Absorbed into the Borg: What Happens After Your Startup is Acquired, [Girl Geek X](https://elevate.girlgeek.io), Apr '18
 * Introducing Cloud Firestore ([video](https://www.youtube.com/watch?v=W3xIOQu0h1w)), Firebase DevSummit, Nov '17
 * How to Build Robust Mobile Applications for the Distributed Cloud ([video](https://www.youtube.com/watch?v=9Fmsw5yzW5I&t=8s)), Google I/O, May '17
