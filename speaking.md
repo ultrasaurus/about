@@ -2,11 +2,11 @@
 
 If you would like me to speak at your event, [contact me](https://www.ultrasaurus.com/emailme.php).
 
-* July 24-26, [Next](https://cloud.withgoogle.com/next18/sf/), San Francisco, CA
-
 
 ## History
-
+* A landscape of unintended consequences ([video](https://www.youtube.com/watch?v=pcuNby-MxCo), [slides](https://www.slideshare.net/sarah.allen/internet-security-a-landscape-of-unintended-consequences)), related post [memory safety: necessary, not sufficient](https://www.ultrasaurus.com/2019/12/memory-safety-necessary-not-sufficient/)
+* RTMP: how did we get to now? (Demuxed 2019), [slides](https://www.slideshare.net/sarah.allen/rtmp-how-did-we-get-to-now-demuxed-2019). [video](https://www.youtube.com/watch?v=5Rv50RCwqo8)
+* [EmberConf 2019](https://2019.emberconf.com/) Closing Keynote, [video](https://www.youtube.com/watch?v=tHyf1-DMBKY), [notes](https://www.ultrasaurus.com/2019/04/when-reality-is-broken-change-the-rules/), [slides](https://github.com/ultrasaurus/change-the-rules/blob/master/when-reality-is-broken-change-the-rules.pdf)
 * [Full stack in a stackless world](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/65920), Fluent, San Jose, CA, June '18 
 * Build planetary scale apps with Firebase with Doug Stevenson ([video](https://www.youtube.com/watch?v=9pwBgGgfHP8)), Google I/O, Mountain View, CA, May '18
 * [Convergence of serverless APIs and compute](https://kccnceu18.sched.com/event/DqwA/convergence-of-serverless-apis-compute-sarah-allen-google-intermediate-skill-level), ([video](https://www.youtube.com/watch?v=c4ShcwgrKL4))Kubecon + CloudNativeCon Europe, Copenhagen, Denmark, May '18
